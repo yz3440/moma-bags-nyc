@@ -1,3 +1,9 @@
+/assets/*
+!/assets/moma-bags-grid.jpg
+
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -174,5 +180,3 @@ cython_debug/
 .pypirc
 
 
-
-/assets/*
